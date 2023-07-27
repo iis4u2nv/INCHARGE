@@ -64,6 +64,8 @@ https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Profile1%20(190).png
 
 * The URL of the functional, deployed application.
 
-
+https://github.com/iis4u2nv/INCHARGE
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
+
+https://github.com/iis4u2nv/INCHARGE.git
