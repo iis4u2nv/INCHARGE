@@ -50,9 +50,20 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 The following screenshots demonstrate the different parts of the application:
 
-![Shows when the user crates a user name](.assets/Dashboard_(188).png)
+https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Login%20(186).png
+
+https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Profile%20(187).png
+
+https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Dashboard%20(188).png
+
+https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Dashboard1%20(189).png
+
+https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Profile1%20(190).png
+
 
 
 * The URL of the functional, deployed application.
+
+
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
