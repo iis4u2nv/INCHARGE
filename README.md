@@ -64,11 +64,11 @@ https://github.com/iis4u2nv/INCHARGE/blob/main/assets/Profile1%20(190).png
 
 * The URL of the functional, deployed application.
 
-https://github.com/iis4u2nv/INCHARGE
+https://in-charge14-9989e91c80f4.herokuapp.com/login
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
-https://github.com/iis4u2nv/INCHARGE.git
+https://github.com/iis4u2nv/INCHARGE
 
 
 ## License
