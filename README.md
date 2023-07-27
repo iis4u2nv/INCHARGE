@@ -50,7 +50,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 The following screenshots demonstrate the different parts of the application:
 
-![Shows when the user crates a user name](./assets/Dashboard_(188).png)
+![Shows when the user crates a user name](.assets/Dashboard_(188).png)
+
 
 * The URL of the functional, deployed application.
 
