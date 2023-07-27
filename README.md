@@ -69,3 +69,8 @@ https://github.com/iis4u2nv/INCHARGE
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
 https://github.com/iis4u2nv/INCHARGE.git
+
+
+## License
+
+No license
